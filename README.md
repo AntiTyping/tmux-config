@@ -110,7 +110,3 @@ Commands
   * `Control + a` then `&` to kill window
 
 
-by Tony Narlock (tony@git-pull.com)
-
-* Github: http://www.github.com/tony
-* Website: http://www.git-pull.com
