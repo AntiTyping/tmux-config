@@ -10,19 +10,19 @@ Installation
   Download:
 
 ```bash
-git clone https://github.com/tony/tmux-config.git ~/.tmux-tony
+git clone https://github.com/dracco/tmux-config.git ~/.tmux
 ```
 
   Copy tmux config to home:
 
 ```bash
-ln -s ~/.tmux-tony/.tmux.conf ~/.tmux.conf
+ln -s ~/.tmux/.tmux.conf ~/.tmux.conf
 ```
 
   Go to config dir:
 
 ```bash
-cd ~/.tmux-tony
+cd ~/.tmux
 ```
 
   Prep ourself to download submodule:
